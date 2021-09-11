@@ -3,16 +3,18 @@
 --
 -- "URL: https://www.psc.edu/resources/software"
 -- "Category: Biological Sciences"
--- "Description: ""
+-- "Description: "Novel genomes can be analyzed by GeneMark-ES, an algorithm utilizing models parameterized by unsupervised training. Notably, GeneMark-ES has a special option for fungal genomes to account for fungal-specific intron organization."
 -- "Keywords: singularity bioinformatics genomics"
 
 whatis("Name: GeneMark-ES")
 whatis("Version: 4.65")
 whatis("Category: Biological Sciences")
 whatis("URL: https://www.psc.edu/resources/software")
-whatis("Description: ")
+whatis("Keywords: singularity bioinformatics genomics")
+whatis("Description: Novel genomes can be analyzed by GeneMark-ES, an algorithm utilizing models parameterized by unsupervised training. Notably, GeneMark-ES has a special option for fungal genomes to account for fungal-specific intron organization.")
 
 help([[
+Novel genomes can be analyzed by GeneMark-ES, an algorithm utilizing models parameterized by unsupervised training. Notably, GeneMark-ES has a special option for fungal genomes to account for fungal-specific intron organization.
 
 To load the module type
 
